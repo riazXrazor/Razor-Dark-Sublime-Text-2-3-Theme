@@ -2,7 +2,9 @@
 How to install a Sublime Text theme (the hard way)
 
 Installing Razor Dark theme on Sublime Text 2/3 is really simple.
-![alt text](screenshots/Razor Dark Sublime Text 2 Theme "Razor Dark Sublime Text 2 Theme")
+
+![alt text](screenshots/Razor-Dark-Sublime-Text-2-Theme.png"Razor Dark Sublime Text 2 Theme")
+
 Please make sure to execute correctly all the following steps:
 
 - Open Sublime text and click on Preferences -> Browse Packages .
